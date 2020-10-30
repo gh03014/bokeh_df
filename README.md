@@ -4,3 +4,5 @@
 4. bokeh에서 서브 plot 사용
 5. bokeh로 다양한 마커의 산점도 그래프 출력
 6. bokeh라이브러리의 output_notebook()으로 쥬피터노트북에도 출력
+
+개발환경: python3.6.7(32bit), Windows 10
